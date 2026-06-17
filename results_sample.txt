@@ -1,0 +1,64 @@
+==================================================
+      STUDENT GRADE CALCULATOR
+==================================================
+
+Enter number of students: 5
+
+=== STUDENT 1 ===
+Student name: Ranjith
+Enter marks (0-100):
+Math: 85
+Science: 92
+English: 88
+
+=== STUDENT 2 ===
+Student name: Harsha
+Enter marks (0-100):
+Math: 78
+Science: 81
+English: 85
+
+=== STUDENT 3 ===
+Student name: Bhowmik
+Enter marks (0-100):
+Math: 95
+Science: 90
+English: 98
+
+=== STUDENT 4 ===
+Student name: Naman
+Enter marks (0-100):
+Math: 67
+Science: 72
+English: 70
+
+=== STUDENT 5 ===
+Student name: Yatish
+Enter marks (0-100):
+Math: 55
+Science: 60
+English: 58
+
+
+============================================================
+                RESULTS SUMMARY
+============================================================
+Name                 |   Avg | Grade | Comment
+------------------------------------------------------------
+Ranjith         |  88.3 |   B   | Very Good! You're doing well.
+Harsha          |  81.3 |   B   | Very Good! You're doing well.
+Bhowmik         |  94.3 |   A   | Excellent! Outstanding performance.
+Naman           |  69.7 |   D   | Needs Improvement. Work harder.
+Yatish          |  57.7 |   F   | Poor Performance. Seek extra help.
+
+==================================================
+            CLASS STATISTICS
+==================================================
+Total Students : 5
+Class Average  : 78.3
+Highest Average: 94.3 (Bhowmik)
+Lowest Average : 57.7 (Yatish)
+
+==================================================
+Thank you for using the Grade Calculator!
+==================================================

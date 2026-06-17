@@ -1,0 +1,26 @@
+student count = 5
+
+Ranjith
+85
+92
+88
+
+Harsha
+78
+81
+85
+
+Bhowmik 
+95
+90
+98
+
+Naman
+67
+72
+70
+
+Yatish
+55
+60
+58
